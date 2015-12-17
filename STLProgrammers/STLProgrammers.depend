@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1443535192 source:f:\code\stlprogrammers\main.cpp
+	<iostream>
+	<vector>
+
+1335436892 source:f:\code\stlprogrammers\algorithm.cpp
+	<iostream>
+	<vector>
+	<locale>
+	<algorithm>
+
+1335433318 source:f:\code\stlprogrammers\deque.cpp
+	<iostream>
+	<deque>
+
+1335423304 source:f:\code\stlprogrammers\exception.cpp
+	<iostream>
+	<exception>
+
